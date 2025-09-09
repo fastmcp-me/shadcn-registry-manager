@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/756/shadcnui-registry-manager)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/756/shadcnui-registry-manager)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/756/shadcnui-registry-manager)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/756/shadcnui-registry-manager)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/756/shadcnui-registry-manager)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/756/shadcnui-registry-manager)
+
 # shadcn registry manager - MCP Server
 
 This project provides an **MCP (Model Context Protocol) server** for the [shadcn/ui](https://ui.shadcn.com) component registry and CLI. It enables remote, programmatic, or containerized execution of shadcn CLI commands (such as `init`, `add`, etc.) that you would normally run locally, making it easy to automate, integrate, or run in cloud/dev environments. The MCP server can connect to both local and remote shadcn registries, providing a secure, extensible, and technical interface for automating project management tasks via AI or CLI agents.
